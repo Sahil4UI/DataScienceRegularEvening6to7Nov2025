@@ -1,0 +1,40 @@
+ Python
+Python is a high level general purpose programming language.
+High Level
+Programming - 3 types
+1.low level-assembly 8086 - code is very complex
+2.mid level-c++ 
+3.high level-Python,JS
+————————————
+General Purpose
+1.App Dev - Software,Websites
+2.Game Dev
+3.AI , DS,ML
+4.Ethical Hacking
+5.Automation testing
+————————————
+Programming->Set of Instructions used to perform a particular operation
++,-,/,*=>calculator
+————————————
+Python-1991-Guido Van Rossum->monty’s Python Flying->
+python is the successor of ABC programming
+
+Python Installation:
+1.python.org
+https://phoenixnap.com/kb/how-to-install-python-3-windows
+———————————————————————————
+2.vscode
+———————————
+Python Features:
+1.Python is a interpreted programming
+Interpreter -it executes the program line by line
+Compiler -> source code to Byte Code
+2.Python is a dynamically Typed Programming
+
+Variables and Constant
+x(variable) = 12(constant) Naming Convention
+1.variable name cannot be started with/contains number or any special character other than _.
+
+
+
+
